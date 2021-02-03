@@ -1,3 +1,7 @@
+
+[Download the game](https://github.com/shahnewaz-labib/the-right-angle/releases/tag/0.1)
+and unzip it anywhere.Execute LaunchGame.exe
+
 # The Menu
 
 ![Alt](SS/menu.png)
